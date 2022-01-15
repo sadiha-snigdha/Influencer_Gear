@@ -1,5 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 /* ------------------------------
@@ -213,4 +215,45 @@ nav ul li span {
 
 .youtube_video_item {
     margin-left: 30px;
+}
+
+
+/* ---------------------------------- 
+             Footer  
+-----------------------------------*/
+.Footer {
+    background-color: #0A0826;
+    padding: 20px;
+    margin-top: 10%;
+}
+
+.footer_article {
+    text-align: center;
+}
+
+.footer_article h2 {
+    color: white;
+    font-size: 24px;
+}
+
+.footer_article p {
+    color: white;
+    font-size: 14px;
+}
+
+.social_media {
+    padding-right: 60px;
+}
+
+.social_media ul {
+    display: flex;
+    justify-content: center;
+}
+
+.social_media ul li {
+    padding-left: 20px;
+}
+
+.social_media a {
+    color: white;
 }
