@@ -82,3 +82,24 @@ nav ul li span {
     padding: 10px 30px;
     border-radius: 25px;
 }
+
+
+
+/* ----------------------------- 
+        E-commerce Sites  
+------------------------------*/
+.e_commerce {
+    height: 100px;
+    width: 75%;
+    margin: 5% 13%;
+    padding-right: 30px;
+    padding-top: 25px;
+    border-top: 2px solid #C0CCDA;
+    border-bottom: 2px solid #C0CCDA;
+}
+
+.e_commerce ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
